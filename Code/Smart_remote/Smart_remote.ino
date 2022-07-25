@@ -4,7 +4,7 @@
  * Author      : Jobit Joseph
  * For         : CircuitDigest
  * Date        : 10-06-2022
- * Copy Writes : © Jobit Joseph – Circuit Digest (Semicon Media Pvt Ltd)
+ * Copy right : © Jobit Joseph – Circuit Digest (Semicon Media Pvt Ltd)
  *****************************************************************************************************/
 /*
    Connection pinout
