@@ -1,4 +1,4 @@
-#[Smart-Universal-Remote-with-Learning-function-and-Google-Assistant-Support](https://circuitdigest.com/microcontroller-projects/diy-smart-universal-ir-remote-controle)
+# [Smart-Universal-Remote-with-Learning-function-and-Google-Assistant-Support](https://circuitdigest.com/microcontroller-projects/diy-smart-universal-ir-remote-controle)
 <img src="https://github.com/Circuit-Digest/Smart-Universal-Remote-with-Learning-function-and-Google-Assistant-Support/blob/24971a819e76cd87d09a98e8faae2f824ea699c9/Schematics%20and%20PCB%20Files/Smart-Remote-Project.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
 
