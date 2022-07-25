@@ -28,6 +28,7 @@
 #include "PinDefinitionsAndMore.h" //Define macros for input and output pin etc.
 #include "src/WiFiManager.h"
 #include "src/AsyncElegantOTA.h"
+#define RAW_BUFFER_LENGTH  750
 #include "src/IRremote.hpp"
 #include "src/AsyncTCP.h"
 #include "src/ESPAsyncWebServer.h"
